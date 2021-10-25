@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php-amqplib/php-amqplib": ">=3.0",
+    "mailchimp/marketing": "^3.0",
+    "mailchimp/transactional": "^1.0"
+  }
+}
